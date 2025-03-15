@@ -1,2 +1,0 @@
-# ASCII
-ASCII翻译器
